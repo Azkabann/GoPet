@@ -17,3 +17,14 @@ para encontrar acolhimentos institucionais a crianças.
 ![layout](https://github.com/Azkabann/GoPet/blob/main/github/Captura%20de%20Tela%20(16).png)
 
 ![layout2](https://github.com/Azkabann/GoPet/blob/main/github/Captura%20de%20Tela%20(17).png)
+
+
+#### 🔨 Tecnologias
+
+O projeto utiliza as seguintes ferramentas:
+
+* [TypeScript](https://www.typescriptlang.org/)
+* [Node.js](https://nodejs.org/pt-br/)
+* [React](https://reactjs.org/)
+* [Express](https://expressjs.com/pt-br/)
+

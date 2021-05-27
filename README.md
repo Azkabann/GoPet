@@ -1,7 +1,8 @@
 
-![logo image](https://github.com/Azkabann/GoPet/blob/main/github/logo.png)
-# GoPet
-## application to find pets that need care and to be adopted
+<img  height="450" width="450" src="https://github.com/Azkabann/GoPet/blob/main/github/logo.png"></img>
+<h1 align="center"> GoPet</h1>
+
+## application to find pets that need care and to be adopted :dog: :cat:
 
 #### 🔍 Sobre o projeto
 O app ajuda pessoas a encontrar abrigos de pets que estão disponiveis 

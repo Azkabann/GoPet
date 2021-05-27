@@ -1,7 +1,6 @@
 
-<img  height="450" width="450" src="https://github.com/Azkabann/GoPet/blob/main/github/logo.png"></img>
-<h1 align="center"> GoPet</h1>
-
+<img  align="center" height="450" width="450" src="https://github.com/Azkabann/GoPet/blob/main/github/logo.png"></img>
+# GoPet
 ## application to find pets that need care and to be adopted :dog: :cat:
 
 #### 🔍 Sobre o projeto
